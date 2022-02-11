@@ -1,0 +1,12 @@
+﻿{
+    "$schema": "http://json-schema.org/schema#",
+    "contentVersion": "1.0.0.0",
+    "SubscriptionId": "<sub Id>",
+    "Snapshots" : {
+        "ResourceGroupName" : "<rg name to store snapshots>",
+        "StorageType" : "Standard_LRS"
+    },
+    "Vms" : {
+        "ResourceGroupName" : "<rg name>"
+    }
+}
